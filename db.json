@@ -1,0 +1,6 @@
+{
+    "tb_use": [
+        {"usename":"admin","password":"1234","fullname":"mr:admdin"},
+        {"usename":"adminn","password":"1234a","fullname":"mr:a"}
+    ]    
+}
